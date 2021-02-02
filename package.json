@@ -3,7 +3,7 @@
     "displayName": "Zippy Language",
     "description": "The Zippy Programming Language",
     "publisher": "zipdot",
-    "version": "0.0.1",
+    "version": "0.2.0",
     "icon": "icon.png",
     "license": "MIT",
     "keywords": [

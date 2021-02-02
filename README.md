@@ -2,7 +2,7 @@
 
 This extension provides support for the Zippy programming language.
 
-<img src="">
+<img src="https://raw.githubusercontent.com/zippy-lang/zippy-vscode/main/code.png">
 
 ## Features
 
