@@ -1,15 +1,25 @@
 # Zippy Language
-
 This extension provides support for the Zippy programming language.
 
-<img src="https://raw.githubusercontent.com/zippy-lang/zippy-vscode/main/code.png">
+![example](example.png)
 
 ## Features
 
 - Syntax Highlighting
 
+## Installation
+1. Download the latest release from the [releases tab](https://github.com/zippy-lang/zippy-vscode/releases).
+2. Install it using `code --install-extension <file>.vsix`.
+3. Restart VS Code.
+
 ## Release Notes
 
 ### 0.0.1
-
 - Initial release
+
+### 0.2.0
+- Added support for new keywords.
+- Fixed first parenthesis of calls being yellow.
+
+### 0.3.0
+- Added support for `in` keyword

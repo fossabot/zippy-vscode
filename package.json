@@ -3,7 +3,7 @@
     "displayName": "Zippy Language",
     "description": "The Zippy Programming Language",
     "publisher": "zipdot",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "icon": "icon.png",
     "license": "MIT",
     "keywords": [
@@ -12,7 +12,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/zippy-lang/zippy-lang-vscode"
+        "url": "https://github.com/zippy-lang/zippy-vscode"
     },
     "engines": {
         "vscode": "^1.38.0"
