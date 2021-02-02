@@ -1,11 +1,17 @@
 {
     "name": "zippy-lang",
     "displayName": "Zippy Language",
-    "description": "Adds syntax highlighting for Zippy code",
+    "description": "The Zippy Programming Language",
     "publisher": "zipdot",
     "version": "0.0.1",
     "icon": "icon.png",
+    "license": "MIT",
+    "keywords": [
+        "zippy",
+        "syntax"
+    ],
     "repository": {
+        "type": "git",
         "url": "https://github.com/zippy-lang/zippy-lang-vscode"
     },
     "engines": {
