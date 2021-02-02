@@ -1,0 +1,30 @@
+{
+    "name": "zippy-lang",
+    "displayName": "Zippy Language",
+    "description": "Adds syntax highlighting for Zippy code",
+    "publisher": "zipdot",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/zippy-lang/zippy-lang-vscode"
+    },
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "zippy",
+            "aliases": ["Zippy", "zippy"],
+            "extensions": [".zip"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "zippy",
+            "scopeName": "source.zip",
+            "path": "./syntaxes/zippy.tmLanguage.json"
+        }]
+    }
+}
