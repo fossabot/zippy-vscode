@@ -2,6 +2,7 @@
 This extension provides support for the Zippy programming language.
 
 ![example](example.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzippy-lang%2Fzippy-vscode.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzippy-lang%2Fzippy-vscode?ref=badge_shield)
 
 ## Features
 
@@ -26,3 +27,7 @@ This extension provides support for the Zippy programming language.
 
 ### 0.3.1
 - Fixed closures not being highlighted
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzippy-lang%2Fzippy-vscode.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzippy-lang%2Fzippy-vscode?ref=badge_large)
